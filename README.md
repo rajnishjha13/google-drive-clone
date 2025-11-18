@@ -1,8 +1,5 @@
-# Drive Demo — Static UI Playground
+## Why this project exists
 
-A polished, single-page static front-end that reproduces the look-and-feel of a cloud-drive landing page for learning HTML and CSS. This repository is a small, focused UI exercise: no backend, no authentication — just markup and styles.
-
-Why this project exists
 - Practice responsive layout and component composition using plain HTML/CSS and Materialize.
 - Explore how icons, spacing and visual hierarchy create a modern product-like interface.
 - Provide a simple starter template you can fork and adapt for UI experiments.
